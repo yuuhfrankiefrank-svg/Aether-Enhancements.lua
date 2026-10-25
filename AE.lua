@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:kick("hey i have lost my discord account on this so aether wont be worked on. join https://discord.gg/P8DE25xP2n leave the eclipse server and join RiotHook! for speical Updates!"
+game:GetService("Players").LocalPlayer.kick("leave the eclipse server and join https://discord.gg/P8DE25xP2 i have lost this (ypeit) account so join that server for more updates! we have a ue counter!")
